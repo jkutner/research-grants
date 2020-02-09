@@ -12,7 +12,7 @@ This is where Research Grant ideas go to get funded.
 
 ### What is a Research Grant?
 
-Research grants are time-boxed projects that allow individuals to step away from their team responsibilities for a period of time to pursue specific research goals. Research grants align with our business goals.
+Research grants are time-boxed projects that allow individuals to step away from their team responsibilities for a period of time to pursue specific research goals. Research grants align with our [V2MOM methods](https://www.salesforce.com/blog/2013/04/how-to-create-alignment-within-your-company.html) and business goals.
 
 ### How do Research Grants work?
 
@@ -32,16 +32,16 @@ Once a research grant has been funded, the sponsor and researcher will schedule 
     * No more than 1 active researcher per team
     * More than 1 researcher can collaborate on a proposal, as long as it stays within above constraints
 * Preparation
-    * Discuss timing with your squad and only kick off a research grant if the timing works with your squad (ie: your absence will not jeopardize the squad OKR)
+    * Discuss timing with your squad and only kick off a research grant if the timing works with your squad (ie: your absence will not jeopardize the team's [OKRs](https://en.wikipedia.org/wiki/OKR))
         * Researchers are free to withdraw from normal squad activities during the length of their grant
     * You are encouraged to swap on-call primary/secondary duties if an on-call shift overlaps with your research
     * Notify the broader org that you're kicking off the research grant and share the doc containing the details.
 * Execution
     * The researcher and the sponsor will determine a schedule with milestones for the project.
     * The researcher will conduct regular check-ins with the project sponsor.
-    * The sponsor will ensure that the project aligns with our V2MOM methods.
+    * The sponsor will ensure that the project aligns with our [V2MOM methods](https://www.salesforce.com/blog/2013/04/how-to-create-alignment-within-your-company.html).
     * The project will be completed within a predetermined time period (see Unresolved Questions).
-    * The Research Grant Oversight Committee will hold the sponsor responsible for alignment with business goals.
+    * The Research Grant Oversight Committee will hold the sponsor responsible for alignment with [V2MOM methods](https://www.salesforce.com/blog/2013/04/how-to-create-alignment-within-your-company.html).
 
 Upon completing a research grant project, or exhausting the funding, the following will happen:
 
